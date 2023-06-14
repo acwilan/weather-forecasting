@@ -73,6 +73,8 @@
 							<packageName>com.github.acwilan.weather.forecasting</packageName>
 							<apiPackage>com.github.acwilan.weather.forecasting.resource</apiPackage>
 							<modelPackage>com.github.acwilan.weather.forecasting.model</modelPackage>
+							<generateApiTests>false</generateApiTests>
+							<generateModelTests>false</generateModelTests>
 							<configOptions>
 								<sourceFolder>src/gen/java/main</sourceFolder>
 								<openApiNullable>false</openApiNullable>
